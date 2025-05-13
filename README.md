@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://github.com/azu0822/naeilhome/blob/main/메인페이지.jpg?raw=true" alt="메인 페이지 미리보기" width="800"/>
+  <img src="https://github.com/azu0822/naeilhome/raw/main/images/메인페이지.jpg?raw=true" alt="메인 페이지 미리보기" width="800"/>
 </p>
+
 
 
 
